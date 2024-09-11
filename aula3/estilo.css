@@ -1,0 +1,25 @@
+body {
+    background-color: #121212; /* Cor de fundo escura */
+    color: #e0e0e0;            /* Cor do texto claro */
+}
+
+h1, h2, h3, p, a {
+    color: #e0e0e0; /* Cor do texto para todos os elementos */
+}
+
+a {
+    color: #bb86fc; /* Cor dos links em tema escuro */
+}
+
+a:hover {
+    color: #ffffff; /* Cor dos links ao passar o mouse */
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-weight: 700; /* Estilo mais grosso para o título */
+}
